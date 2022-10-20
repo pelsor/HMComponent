@@ -1,0 +1,6 @@
+framework module HMComponent {
+  umbrella header "HMComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HMComponent",
+  "version": "0.1.0",
+  "summary": "A short description of HMComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huafeng/HMComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huafeng": "hm@a4x.io"
+  },
+  "source": {
+    "git": "https://github.com/huafeng/HMComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "HMComponent/Classes/**/*"
+}
