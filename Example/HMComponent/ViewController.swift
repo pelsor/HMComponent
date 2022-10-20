@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import HMComponent
 
 class ViewController: UIViewController {
 

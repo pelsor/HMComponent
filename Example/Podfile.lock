@@ -2,15 +2,20 @@ PODS:
   - HMComponent (0.1.0)
 
 DEPENDENCIES:
-  - HMComponent (from `../`)
+  - "HMComponent (from `git@github.com:pelsor/HMComponent.git`)"
 
 EXTERNAL SOURCES:
   HMComponent:
-    :path: "../"
+    :git: "git@github.com:pelsor/HMComponent.git"
+
+CHECKOUT OPTIONS:
+  HMComponent:
+    :commit: a5c436881ed93c6d8ed634b144738a5468feffb5
+    :git: "git@github.com:pelsor/HMComponent.git"
 
 SPEC CHECKSUMS:
   HMComponent: 83f27b4ae52dfa54eecced7f0e7b7ef5fbecea88
 
-PODFILE CHECKSUM: c53940980885512de77b9684a948a3e692aa3d35
+PODFILE CHECKSUM: d63d936a8124cf44cea8be643c6c21628fae1eaf
 
 COCOAPODS: 1.11.3

@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'HMComponent_Example' do
-  pod 'HMComponent', :path => '../'
+  pod 'HMComponent', :git => 'git@github.com:pelsor/HMComponent.git'
 
   target 'HMComponent_Tests' do
     inherit! :search_paths
